@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... ReactJS and SASS
+- 🌱 I’m currently learning ReactJS and Next
 
-- 💬 Ask me about ... PHP, WordPress, maybe I can help!
+- 💬 Ask me about ... PHP, WordPress, Laravel, MySQL and jQuery maybe I can help!
+
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
