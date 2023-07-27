@@ -4,7 +4,9 @@
 
 🌱 I’m currently learning ReactJS and Next
 
-💬 Ask me about ... PHP, WordPress, Laravel, MySQL and jQuery maybe I can help!
+💬 Ask me about ... PHP, WordPress, Laravel, MySQL, and jQuery maybe I can help!
+
+<a href="https://app.daily.dev/rudwolf"><img src="https://api.daily.dev/devcards/5736d1b10aed42f28826a27f477a9f18.png?r=2fo" width="400" alt="Rodolfo Rodrigues's Dev Card"/></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <ul>
