@@ -6,6 +6,8 @@
 
 💬 Ask me about ... PHP, WordPress, Laravel, MySQL, and jQuery maybe I can help!
 
+<a href="https://app.daily.dev/rudwolf"><img src="https://api.daily.dev/devcards/v2/eDhcDLzwkNNbTeY2CLQKR.png?type=default&r=kg5" width="356" alt="Rodolfo Rodrigues's Dev Card"/></a>
+
 ### :hammer_and_wrench: Languages and Tools :
 <ul>
 <li><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 10/10</li>
